@@ -1,0 +1,20 @@
+#Ignore .o
+*.o
+
+#Ignore temp files
+*~
+
+listener
+talker
+talker2
+showip
+wget-curl
+givemeSockets
+getaddrinfo
+ptrent
+conlisten
+genlisten
+tcpbasicclient
+
+*.exe
+\#*
